@@ -1,0 +1,16 @@
+﻿生成启动时间为 2021/3/12 21:57:52。
+     1>项目“D:\biancheng\c bite study\text-3.12\text-3.12\text-3.12.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\biancheng\c bite study\text-3.12\Debug\text-3.12.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\biancheng\c bite study\text-3.12\Debug\text-3.12.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\biancheng\c bite study\text-3.12\Debug\text-3.12.lib" /MACHINE:X86 Debug\text.obj
+     1>text.obj : error LNK2019: 无法解析的外部符号 _InitContact，该符号在函数 _test 中被引用
+     1>text.obj : error LNK2019: 无法解析的外部符号 _AddContact，该符号在函数 _test 中被引用
+     1>text.obj : error LNK2019: 无法解析的外部符号 _ShowContact，该符号在函数 _test 中被引用
+     1>text.obj : error LNK2019: 无法解析的外部符号 _DelContact，该符号在函数 _test 中被引用
+     1>text.obj : error LNK2019: 无法解析的外部符号 _SearchContact，该符号在函数 _test 中被引用
+     1>text.obj : error LNK2019: 无法解析的外部符号 _ModifyContact，该符号在函数 _test 中被引用
+     1>D:\biancheng\c bite study\text-3.12\Debug\text-3.12.exe : fatal error LNK1120: 6 个无法解析的外部命令
+     1>已完成生成项目“D:\biancheng\c bite study\text-3.12\text-3.12\text-3.12.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.11
